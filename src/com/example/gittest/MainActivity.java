@@ -12,7 +12,9 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-	//git Test Branch Branch
+		/**
+		 * Git Branch test 
+		 */
 	}
 
 
